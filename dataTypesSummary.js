@@ -38,3 +38,25 @@ let myObj = {name: "Shri Ram", age: 25}
 // console.table(typeof [role, myObj])
 
 //  ==> Data type of Array is object
+
+let myName = "Sudhamsha"
+let anotherName = myName
+anotherName = "Shri Ram"
+
+console.log(myName)
+console.log(anotherName)
+
+let user = {
+    email: "sudhamshasagar@gmail.com",
+    id: 101
+}
+
+user.id = 102
+
+console.log(user)
+
+let user2 = user
+user2.id = 105
+
+console.log(user)
+console.log(user2)
