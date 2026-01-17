@@ -13,13 +13,31 @@ valueNumber = Number(a)
 
 let isLoggedIn = " "
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn)
-console.log(typeof booleanIsLoggedIn)
+// console.log(booleanIsLoggedIn)
+// console.log(typeof booleanIsLoggedIn)
 
 // Empty string would be false
 // Empty string with space would be true
 
 let stringNumber = 5
 stringNumber = String(stringNumber)
-console.log(stringNumber)
-console.log(typeof stringNumber)
+// console.log(stringNumber)
+// console.log(typeof stringNumber)
+let value = 5
+let negValue = -value
+// console.log(negValue)
+
+// Mathematics operations
+
+// console.log(2+2)
+// console.log(2-2)
+// console.log(2*2)
+// console.log(2/2)
+// console.log(2**3)
+// console.log(2%3)
+
+let str1 = "Jai"
+let str2 = " Shri Ram"
+// console.log(str1+str2)
+
+console.log("2" === 2)
