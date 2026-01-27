@@ -16,5 +16,5 @@ const usableArray = anotherArray.flat(Infinity)
 
 // console.log(realAnotherArray)
 // console.log(usableArray)
-console.log(Array.isArray("Shri Ram"))
-console.log(Array.from("Shri Ram"))
+// console.log(Array.isArray("Shri Ram"))
+// console.log(Array.from("Shri Ram"))
