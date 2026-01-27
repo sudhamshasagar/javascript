@@ -11,4 +11,3 @@ console.log(null == undefined)
 console.log("shri ram".length)
 
 let name = "shri ram"
-name.
