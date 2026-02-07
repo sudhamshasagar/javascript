@@ -72,3 +72,16 @@ if(Object.keys(emtpyObj).length ===0){
 
 const array1 = ["Shri Ram"]
 // console.log(typeof array1);
+
+
+let val1
+val1  = null ?? undefined
+console.log(val1);
+// Null coalescing operator returns the 2nd value when the first value is null or undefined
+
+
+// condition ? true: false
+
+const ticketPrice = 500
+ticketPrice >= 400 ? console.log("Yes") : console.log("No")
+
